@@ -1,0 +1,31 @@
+{
+    "sid": "VEabcdef1234567890abcdef1234567890",
+    "serviceSid": "VAabcdef1234567890abcdef1234567890",
+    "accountSid": "ACabcdef1234567890abcdef1234567890",
+    "to": "example@email.com",
+    "channel": "email",
+    "status": "pending",
+    "valid": false,
+    "lookup": {
+        "carrier": null
+    },
+    "amount": null,
+    "payee": null,
+    "sendCodeAttempts": [
+        {
+            "attempt_sid": "VLabcdef1234567890abcdef1234567890",
+            "channel_id": "aBcDeFgHiJkLmNoPqRsTuV",
+            "channel": "email",
+            "time": "2024-02-21T05:32:47.000Z"
+        },
+        {
+            "attempt_sid": "VL0abcdef1234567890abcdef123456789",
+            "channel_id": "wXyZaBcDeFgHiJkLmNoPqR",
+            "channel": "email",
+            "time": "2024-02-21T05:33:17.000Z"
+        }
+    ],
+    "dateCreated": "2024-02-21T05:32:47.000Z",
+    "dateUpdated": "2024-02-21T05:33:17.000Z",
+    "url": "https://verify.twilio.com/v2/Services/VAabcdef1234567890abcdef1234567890/Verifications/VEabcdef1234567890abcdef1234567890"
+}

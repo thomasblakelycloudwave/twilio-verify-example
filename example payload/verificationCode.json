@@ -1,0 +1,13 @@
+{
+  "sid": "VEabcdef1234567890abcdef1234567890",
+  "serviceSid": "VAabcdef1234567890abcdef1234567890",
+  "accountSid": "ACabcdef1234567890abcdef1234567890",
+  "to": "example@email.com",
+  "channel": "email",
+  "status": "approved",
+  "valid": true,
+  "amount": null,
+  "payee": null,
+  "dateCreated": "2024-04-12T00:47:39.000Z",
+  "dateUpdated": "2024-04-12T00:48:05.000Z"
+}

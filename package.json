@@ -1,0 +1,14 @@
+{
+  "name": "twilio-verify-example",
+  "version": "0.0.1",
+  "scripts": {
+      "start": "node index.js"
+  },
+  "dependencies": {
+      "dotenv": "^16.4.5",
+      "twilio": "^4.23.0"
+  },
+  "engines": {
+      "node": "^18"
+  }
+}
