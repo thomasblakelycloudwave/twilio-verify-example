@@ -8,12 +8,12 @@ A working Twilio Verify service, a standard set of Twilio REST API Keys.
 
 # Setup
 
-1. Install simply, `npm install`
-2. create `.env`, `cp env.example .env`, fill in the blanks
+1. Install simply: `npm install`
+2. create `.env`: `cp env.example .env` (fill in the blanks)
 
 # Use
 
-1. Run simply, `npm start`
+1. Run simply: `npm start`
 
 # Example use
 
